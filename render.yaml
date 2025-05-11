@@ -1,7 +1,7 @@
 databases:
   - name: mysitedb
     plan: free
-    dataabaseName: bookdata
+    databaseName: bookdata
     user: akishino
 services:
   - type: web
